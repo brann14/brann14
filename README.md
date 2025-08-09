@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/SbeUHh1.png)
+![Banner]([https://i.imgur.com/SbeUHh1.png](https://i.imgur.com/qUPnssz.png))
 
 <!--
 **brann14/brann14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
