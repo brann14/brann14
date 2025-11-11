@@ -8,3 +8,5 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 > Hey! I develop modern, scalable Discord bots and websites with a focus on smooth performance, responsiveness, and visually engaging user experiences. Alongside that, I work on smaller projects in Lua, experimenting with design and interactivity. I’m always exploring new technologies and frameworks to push creativity and efficiency further, combining functionality with clean, modern aesthetics to deliver projects that stand out for both usability and style.
+
+> You can checkout my full portfolio [here](https://brannportfolio.xyz/)
