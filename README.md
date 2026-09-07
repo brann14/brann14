@@ -1,3 +1,3 @@
-https://brannportfolio.xyz
+https://brann.lol
 
 https://horizonbot.app
