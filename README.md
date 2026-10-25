@@ -16,7 +16,7 @@ more that are either private or being worked on
 
 ---
 
-## get in touch
+## my discord
 [![brann.lol](https://img.shields.io/badge/brann.lol-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1268673468405125260)
 
 ---
