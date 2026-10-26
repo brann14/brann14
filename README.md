@@ -2,7 +2,7 @@
 
 i'm trying to learn software engineering through miscellaneous projects.
 
-currently i've been programming for 3 years
+currently i've been programming for 3 years.
 
 ---
 
