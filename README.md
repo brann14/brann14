@@ -6,7 +6,7 @@ currently i've been programming for 3 years.
 
 ---
 
-## projects i've worked on:
+## projects i've worked on
 - **[horizon](https://horizonbot.app)** - a mostly free discord bot made for roblox departments to integrate with roleplay easier
 - **[skinSniper](https://github.com/brann14/skin-tracker)** - an open source project made for tracking CS2 skin prices
 - **[devpad](https://github.com/brann14/devpad-v2)** - a dev notepad, simple & open source. still working on it
