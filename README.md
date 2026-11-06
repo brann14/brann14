@@ -12,7 +12,7 @@ currently i've been programming for 3 years
 - **[devpad](https://github.com/brann14/devpad-v2)** - a dev notepad, simple & open source. still working on it
 - **[slashlint](https://github.com/brann14/slashlint)** - a discord.py tool that notifies you of unexpected user timeout errors. still working on it
   
-and way more that are private or still being worked on
+and way more that are private or still being worked on.
 
 ---
 
