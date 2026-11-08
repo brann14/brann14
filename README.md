@@ -16,7 +16,7 @@ and way more that are private or still being worked on.
 
 ---
 
-## discord
+## my discord
 [![brann.lol](https://img.shields.io/badge/brann.lol-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1268673468405125260)
 
 ---
