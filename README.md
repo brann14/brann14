@@ -1,4 +1,4 @@
-# i'm brann
+# hi, i'm brann
 
 i'm trying to learn software engineering through miscellaneous projects.
 
