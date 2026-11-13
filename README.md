@@ -11,7 +11,7 @@ currently i've been programming for 3 years
 - **[skinSniper](https://github.com/brann14/skin-tracker)** - an open source project made for tracking CS2 skin prices
 - **[devpad](https://github.com/brann14/devpad-v2)** - a dev notepad, simple & open source. still working on it
   
-and way more that are private or still being worked on
+and more that are private or still being worked on
 
 ---
 
